@@ -12,9 +12,6 @@ A modern Android application built with Jetpack Compose for capturing, managing,
 - **🌙 Dark Theme**: Modern Material 3 design with dark theme support
 - **📱 Responsive UI**: Optimized for various screen sizes and orientations
 
-## Screenshots
-
-_[Screenshots would be added here]_
 
 ## Tech Stack
 
